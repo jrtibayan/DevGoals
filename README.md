@@ -7,7 +7,7 @@ A list of goals I made to help me move forward towards my dream to be either a W
 
 ## Learning ASP.NET from [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/)
 
-- [ ] Sample Project Making Razor Pages in ASP.NET Core - [(Resource)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-2.2)
+- [ ] Sample Project Making Razor Pages in ASP.NET Core - ([Resource](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-2.2), [Repository](https://github.com/jrtibayan/AspNetCore-RazorPages-Project01-MovieApp))  
 - [ ] Sample Project Making ASP.NET Core MVC - [(Resource)](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-2.2)
 
 ## Learning HTML5 Game Development
