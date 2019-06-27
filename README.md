@@ -12,9 +12,10 @@ A list of goals I made to help me move forward towards my dream to be either a W
 
 ## Learning HTML5 Game Development
 
-- [X] Sample Project 01 Making a Game with Common Basic Game Features - [(Resource)](https://www.w3schools.com/graphics/tryit.asp?filename=trygame_default_gravity), [Repository](https://github.com/jrtibayan/Learning-JavascriptGame-01-FlappyBirdLikeGame))
-- [ ] Sample Project 02 Making a Game with Common Basic Game Features - [(Resource)](https://www.youtube.com/watch?v=8uIt9a2XBrw&list=PLcN6MkgfgN4B8N1Oyo74SQVDO_dsMKALV)
-- [ ] 1st Game
+- [X] Sample Project 01 - Basic HTML5 Game by [W3Schools](https://www.w3schools.com/graphics/tryit.asp?filename=trygame_default_gravity) [(Repository](https://github.com/jrtibayan/Learning-JavascriptGame-01-FlappyBirdLikeGame), [Game](https://jrtibayan.github.io/Learning-JavascriptGame-01-FlappyBirdLikeGame/))
+- [ ] Sample Project 02 - Running/Jumping Box by [PothOnProgramming
+](https://www.youtube.com/watch?v=8uIt9a2XBrw&list=PLcN6MkgfgN4B8N1Oyo74SQVDO_dsMKALV)
+- [ ] Sample Project 03 - Simple Platform Game by [Eloquent Javascript](https://eloquentjavascript.net/16_game.html)
 
 ## Make Website for Local Business (during spare time)
 - [ ] 1st Website 
