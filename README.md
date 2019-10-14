@@ -19,6 +19,8 @@ A list of goals I made to help me move forward towards my dream to be either a W
 
 ## Remaking Games For Practice
 - [ ] Flappy Bird ([Repository](https://github.com/jrtibayan/GameDev-Challenge-01-RemakeFlappyBird-UsingJavascript), [Game](https://jrtibayan.github.io/GameDev-Challenge-01-RemakeFlappyBird-UsingJavascript))
+- [ ] Pong
+- [ ] Snake
 
 ## Pet Projects
 - [ ] Turn Based Fighting Game
