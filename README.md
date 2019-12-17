@@ -17,7 +17,7 @@ A list of goals I made to help me move forward towards my goal of making a caree
 - [X] Sample Project 02 - Running/Jumping Box by [PothOnProgramming
 ](https://www.youtube.com/watch?v=8uIt9a2XBrw&list=PLcN6MkgfgN4B8N1Oyo74SQVDO_dsMKALV) ([Repository](https://github.com/jrtibayan/Learning-HTML5Game-02-RunningJumpingBox), [Game](https://jrtibayan.github.io/Learning-HTML5Game-02-RunningJumpingBox/))
 - [X] Sample Project 03 - Simple Platform Game by [Eloquent Javascript](https://eloquentjavascript.net/16_game.html) ([Repository](https://github.com/jrtibayan/Learning-HTML5Game-03-SimplePlatformGame), [Game](https://jrtibayan.github.io/Learning-HTML5Game-03-SimplePlatformGame))
-- [ ] Sample Project 04 - Grits Game by [Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlUUkh6txMRXE-w-6N1Z225)
+- [ ] Sample Project 04 - Udacity HTML5 Game Dev Course by [Google](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlUUkh6txMRXE-w-6N1Z225) ([Repository](https://github.com/jrtibayan/Learning-HTML5Game-04-Udacity-HTML5GameDevCourse-ByGoogle))
 
 ## Remaking Games For Practice
 - [X] Flappy Bird ([Repository](https://github.com/jrtibayan/GameDev-Challenge-01-RemakeFlappyBird-UsingJavascript), [Game](https://jrtibayan.github.io/GameDev-Challenge-01-RemakeFlappyBird-UsingJavascript))
