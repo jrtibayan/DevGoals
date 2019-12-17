@@ -1,8 +1,9 @@
 # DevGoals
-A list of goals I made to help me move forward towards my dream to be either a Web or Game Developer.
+A list of goals I made to help me move forward towards my goal of making a career change from Web Admin to Web/Game Developer.
 
-## Get Hired as ASP.NET or Game Developer
-- [ ] ASP.NET Dev
+## Get Hired or Become a
+- [X] Freelance Front End Web Dev
+- [ ] Back End Dev - ASP.NET / MEAN Stack
 - [ ] Game Dev
 
 ## Learning ASP.NET from [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/)
